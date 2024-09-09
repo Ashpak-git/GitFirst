@@ -1,0 +1,9 @@
+import java.io.*;
+import java.lang.*;
+class xyz
+{
+  public static void main(String args[])
+  {
+    System.out.println("\n Hello Sameer...This is just a try of java with you");
+  }    
+}
